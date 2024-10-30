@@ -4,7 +4,7 @@ const AdvertHere = () => {
   return (
     <div className="flex justify-center border-[1px] border-[#333] pt-10 pb-5 rounded-2xl my-16">
       <div>
-        <a className="flex justify-center bg-white text-[#111] font-semibold rounded-3xl items-center cursor-pointer">
+        <a className="flex justify-center bg-white text-[#111] font-semibold rounded-3xl items-center cursor-pointer" >
           <h2 className="text-md p-2">Advertise Here</h2>
           <svg
             xmlns="http://www.w3.org/2000/svg"
